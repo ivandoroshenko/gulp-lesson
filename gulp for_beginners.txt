@@ -1,0 +1,4 @@
+22:30 installing sass (для linux если не становится то вместо --save-dev прописать --unsafe perm)
+34:00 watch
+37:30 browserSync
+1:26:23 optimising images
