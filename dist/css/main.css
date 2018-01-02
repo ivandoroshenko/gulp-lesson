@@ -1,2 +1,12 @@
 body {
-  background-color: pink; }
+  font-size: 22px; }
+
+body {
+  background: blue;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+
+h1 {
+  font-size: 44px; }
